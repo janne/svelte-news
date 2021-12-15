@@ -40,7 +40,6 @@
 	.item {
 		display: flex;
 		flex-direction: column;
-		margin: 8px;
 		padding: 8px;
 		color: #333;
 		border: 1px solid #ccc;

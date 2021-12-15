@@ -7,3 +7,5 @@ export type Item = {
 	points: number;
 	num_comments: number;
 };
+
+export type Comment = { comment_text: string; author: string; created_at: string };

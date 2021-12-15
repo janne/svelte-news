@@ -7,5 +7,7 @@
 		color: #eee;
 		align-items: center;
 		padding: 10px;
+		font-weight: bold;
+		font-size: 28px;
 	}
 </style>
